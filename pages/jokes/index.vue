@@ -42,7 +42,7 @@ export default {
   },
   methods: {
     searchJoke(title) {
-      alert('search joke  ' + title)
+      alert('search jokeeeeee  ' + title)
     },
   },
 }
